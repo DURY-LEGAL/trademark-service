@@ -1,0 +1,24 @@
+{
+  "name": "trademark-service",
+  "version": "0.1.0",
+  "description": "Trademark service toolkit - End-to-end trademark registration and management. Powered by DURY LEGAL.",
+  "keywords": [
+    "trademark",
+    "service",
+    "registration",
+    "management",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-service.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
